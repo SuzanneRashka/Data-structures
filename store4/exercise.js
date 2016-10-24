@@ -15,7 +15,11 @@ console.log(totalCountOfBB);
 
 // ^^^^^^^^^^^^ LOOPING OVER DATA ^^^^^^^^^^^^
 // Create a loop to return an array of the candies that cost more than $2.00
-
+for (var key in store4){
+  for (var i = 0; i < store4; i ++){
+    //store4[keys].cost > 2.00   /// work on
+  }
+}
 
 // Create a loop to return an object that has the candy name as the key and the cost as the value
 
