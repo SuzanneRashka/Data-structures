@@ -7,7 +7,6 @@ var saleDatesBB = store2['sale dates']['Banana Bunches'];
 
 console.log(saleDatesBB);
 // What built-in array property would you use to determine how many sale dates there are for store2's 'Banana Bunches'?
-
 console.log(saleDatesBB.length);
 
 /////////// UPDATING DATA ///////////
@@ -41,7 +40,11 @@ newObject literal;
 */
 
 // Iterate over store2's sale dates data to find which day had the most total number of sales. How did you calculate this?
-
+/*
+/////////////////////////////////////////////////
+Math.max
+ ////////////////////////////////////////////////
+*/
 
 /////////// CHALLENGE ///////////
 

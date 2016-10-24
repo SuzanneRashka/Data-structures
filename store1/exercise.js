@@ -58,7 +58,9 @@ function store1_6(){
 store1_6();
 
 // Iterate over the generated array of dates. Use each date to console.log the specific sale data for the day from store1.
-///??? not sure what your asking here
+for (var key in store1){
+
+}
 
 // Use a loop to calculate the total number of candies sold at store1.   store1['2015-01-10'][0][2]
 
